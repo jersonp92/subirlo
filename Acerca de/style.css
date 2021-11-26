@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+body {
+  background:  #1e2224;
+}
+
+.menu2 {
+  list-style: none;
+  padding: 0;
+  background:#080324;
+  width: 100%;
+  max-width: 100%;
+  margin:auto;
+  margin-top: 0px;
+  text-align: center;
+  
+}
+
+.menu2 li a{
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+  display: block;
+}
+
+.menu2 li{
+  display: inline-block;
+  text-align: center;
+
+}
+
+.menu2 li a:hover{
+  background: rgb(148, 29, 138);
+}
+
+
+h1{
+  display: block;
+  margin: auto;
+  font-size: 22px;
+  color: white;
+  margin: 30px;
+}
+
+
+img{
+  display:block;
+  margin: auto;
+  width: 1000px
+}
